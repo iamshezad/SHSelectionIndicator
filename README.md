@@ -9,7 +9,7 @@ Selection Indicator using an imageView.
 <img src="/Screenshots/Sample1.png" /> 
 
 ## Demo
-<img src="/screenshots/sample1.gif" />
+<img src="/Screenshots/sample1.gif" />
 
 ## Installation
 Just drag and drop the SHSelectionIcon.swift file from SHSelectionIndicator folder to your project.
