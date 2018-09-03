@@ -6,7 +6,10 @@ Selection Indicator using an imageView.
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-ios-blue.svg?style=flat)](https://cocoapods.org/pods/SHSelectionIndicator)
 
-<img src="/Screenshots/Sample1.png" /> <img src="/Screenshots/Sample1.gif" />
+<img src="/Screenshots/Sample1.png" /> 
+
+## Demo
+<img src="/screenshots/sample1.gif" />
 
 ## Installation
 Just drag and drop the SHSelectionIcon.swift file from SHSelectionIndicator folder to your project.
@@ -22,7 +25,7 @@ Just drag and drop the SHSelectionIcon.swift file from SHSelectionIndicator fold
 2. a- You can set selection indicator icon height and width.
     for example:
     ```swift
-    selection.selectionIconHeight = 30
+    selection.selectionIconHeight = 30 //By default 30 for both height and width
     selection.selectionIconWidth = 30
     ```
     b- You can set selection indicator icon direction.
