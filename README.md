@@ -3,7 +3,7 @@ Selection Indicator using an imageView.
 
 [![Swift 4.0](https://img.shields.io/badge/Swift-4-orange.svg?style=flat)](https://developer.apple.com/swift/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-ios-blue.svg?style=flat)]
+[![Platform](https://img.shields.io/badge/platform-ios-blue.svg?style=flat)]()
 
 <img src="/Screenshots/Sample1.png" /> 
 
